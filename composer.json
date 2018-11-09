@@ -1,0 +1,10 @@
+{
+  "name": "spryker-feature/raitings-review",
+  "description": "Raitings & Review [feature]",
+  "type": "metapackage",
+  "license": "proprietary",
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=7.1"
+  }
+}
